@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1044968801364",
+    "project_id": "jgarden-ac4d5",
+    "storage_bucket": "jgarden-ac4d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044968801364:android:154c9a4489bca9f47e19c1",
+        "android_client_info": {
+          "package_name": "com.example.jgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044968801364-5hp0549s6julvks9pemn9cb3n8glnjbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPZM7LHrpLyArgquvVoLpSExpY9txLbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044968801364-5hp0549s6julvks9pemn9cb3n8glnjbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044968801364-4jf6u79fv5sagb3chu6gbe1v2i2fp3ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jgarden"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044968801364:android:4454ecbb2efc11e07e19c1",
+        "android_client_info": {
+          "package_name": "om.example.jgarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044968801364-5hp0549s6julvks9pemn9cb3n8glnjbk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbPZM7LHrpLyArgquvVoLpSExpY9txLbI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044968801364-5hp0549s6julvks9pemn9cb3n8glnjbk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1044968801364-4jf6u79fv5sagb3chu6gbe1v2i2fp3ms.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jgarden"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
